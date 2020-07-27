@@ -16,8 +16,8 @@ import DAO.SearchDAO;
 public class MainClass {
 
     public static void main(String[] args) {
-        String clientId = "vZo3hh9hvK5TXzAaUHVG"; //애플리케이션 클라이언트 아이디값"
-        String clientSecret = "dRmzlMpVNy"; //애플리케이션 클라이언트 시크릿값"
+        String clientId = "****"; //애플리케이션 클라이언트 아이디값"
+        String clientSecret = "*****"; //애플리케이션 클라이언트 시크릿값"
         Scanner sc = new Scanner(System.in);
         String text = null;
         try {
